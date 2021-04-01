@@ -1,0 +1,6 @@
+framework module Pods_ZWUniversalComponent_Tests {
+  umbrella header "Pods-ZWUniversalComponent_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

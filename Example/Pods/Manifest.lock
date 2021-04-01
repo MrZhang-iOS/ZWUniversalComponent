@@ -1,0 +1,16 @@
+PODS:
+  - ZWUniversalComponent (0.1.0)
+
+DEPENDENCIES:
+  - ZWUniversalComponent (from `../`)
+
+EXTERNAL SOURCES:
+  ZWUniversalComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZWUniversalComponent: 35d8e5b03fcd611050b608b8d36945f0bce1cbca
+
+PODFILE CHECKSUM: 55ad6c0e16a2c0ea7aed8220c712467e29202223
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,22 @@
+{
+  "name": "ZWUniversalComponent",
+  "version": "0.1.0",
+  "summary": "A short description of ZWUniversalComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MrZhang-iOS/ZWUniversalComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MrZhang-iOS": "why.20130509@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/MrZhang-iOS/ZWUniversalComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZWUniversalComponent/Classes/**/*"
+}
